@@ -1,7 +1,0 @@
-Giovanni Urdaneta - 28288477
-
-Este asistente virtual realiza busquedas en google y en youtube, para utilizarlo se deben seguir estos pasos:
-
-- Una vez que el programa despliegue "Escuchando...", esperar 1 segundo y hablar
-- Las busquedas se realizan con el comando de voz: "alexa, busca en (youtube o google)"
-- A este comando, alexa respondera, solicitando que es lo que queremos buscar, es importante, de nuevo, esperar 1 segundo aproximadamente despues de que la consola despliegue "Escuchando...", para evitar errores o imprecisiones
