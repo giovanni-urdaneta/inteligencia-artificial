@@ -1,0 +1,1 @@
+Al correr el programa, la pantalla estara desplegada por 5 segundos. Una vez que pase ese periodo de tiempo, se reconocera la figura de la mano y se imprimira la jugada del cpu y el resultado del juego en consola.
